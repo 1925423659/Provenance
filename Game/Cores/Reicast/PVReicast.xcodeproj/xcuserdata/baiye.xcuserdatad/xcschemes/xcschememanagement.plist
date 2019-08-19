@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>PVReicast-iOS.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>92</integer>
+		</dict>
+		<key>PVReicast-tvOS.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>93</integer>
+		</dict>
+		<key>reicast-iOS.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>94</integer>
+		</dict>
+		<key>reicast-tvOS.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>95</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>B30178D2207C901D0051B93D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B3447EC0218BEDD200557ACE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B3447EE8218BEE3F00557ACE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B3C7620F20783162009950E4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

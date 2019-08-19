@@ -1,0 +1,10 @@
+{
+  "commitish" : "v1.1.0",
+  "tvOS" : [
+    {
+      "name" : "QuickTableViewController",
+      "hash" : "9e361b023ecad716a7f16dffb144356bf11413ada7a16262e11978167cbdac05",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    }
+  ]
+}

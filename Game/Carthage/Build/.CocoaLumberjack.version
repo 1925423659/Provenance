@@ -1,0 +1,14 @@
+{
+  "commitish" : "3.5.3",
+  "tvOS" : [
+    {
+      "name" : "CocoaLumberjackSwift",
+      "hash" : "d44fc3297fa4412ac3cf75aeae23ba0693fe2b207a8bbf307e1eb4bbf4d44c7f",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    },
+    {
+      "name" : "CocoaLumberjack",
+      "hash" : "7f5c1a2607a23306da033f021e799fe811c4e7a047684db5cf15705af8be677e"
+    }
+  ]
+}

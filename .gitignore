@@ -1,0 +1,8 @@
+Game/Carthage/Build/iOS/*.bcsymbolmap
+Game/Carthage/Build/iOS/*.dSYM
+Game/Carthage/Build/Mac/*.bcsymbolmap
+Game/Carthage/Build/Mac/*.dSYM
+Game/Carthage/Build/tvOS/*.bcsymbolmap
+Game/Carthage/Build/tvOS/*.dSYM
+Game/Carthage/Build/watchOS/*.bcsymbolmap
+Game/Carthage/Build/watchOS/*.dSYM

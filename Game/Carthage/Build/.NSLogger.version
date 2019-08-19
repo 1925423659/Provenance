@@ -1,0 +1,14 @@
+{
+  "commitish" : "v1.9.7",
+  "tvOS" : [
+    {
+      "name" : "NSLogger",
+      "hash" : "199d5055b67449ca02002991394f0a108d229aa56dc64c51f102c30b1c2ad22d"
+    },
+    {
+      "name" : "NSLoggerSwift",
+      "hash" : "1cad606dee2282941af8de17b27cdd4d14833c3e102cf8cc1bf81502102b8b29",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    }
+  ]
+}

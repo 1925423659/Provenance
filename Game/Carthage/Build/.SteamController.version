@@ -1,0 +1,9 @@
+{
+  "commitish" : "v1.0.3",
+  "tvOS" : [
+    {
+      "name" : "SteamController",
+      "hash" : "773c7b77d26c3463a3deb5624b84ce4df3baea272e0011b8d8300d9d5f5fd851"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "commitish" : "5.1.0",
+  "tvOS" : [
+    {
+      "name" : "HockeySDK",
+      "hash" : "e96343c367cac784c00a87872ad6abd5efc8419c6e351baebc2fad9737e7fa96"
+    }
+  ]
+}

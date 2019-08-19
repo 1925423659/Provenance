@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:PVSupport/PVSupport.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:PVLibrary/PVLibrary.xcodeproj">
+   </FileRef>
+   <Group
+      location = "container:Cores"
+      name = "Cores">
+      <FileRef
+         location = "group:Atari800/PVAtari800.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:FCEU/PVFCEU.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Gambatte/PVGB.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Genesis-Plus-GX/PVGenesis.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Mednafen/PVMednafen.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Mupen64Plus/PVMupen64Plus.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:PicoDrive/PVPicoDrive.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:PokeMini/PVPokeMini.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:ProSystem/PVProSystem.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Reicast/PVReicast.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:snes9x/PVSNES.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Stella/PVStella.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:TGBDual/PVTGBDual.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:VirtualJaguar/Core-VirtualJaguar.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:VisualBoyAdvance-M/PVGBA.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Yabause/PVYabause.xcodeproj">
+      </FileRef>
+   </Group>
+</Workspace>

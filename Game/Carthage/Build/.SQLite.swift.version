@@ -1,0 +1,10 @@
+{
+  "commitish" : "0.12.0",
+  "tvOS" : [
+    {
+      "name" : "SQLite",
+      "hash" : "1ca9fe96fde14f3b25204287cf2df4174448817a007303ab4102889fac3cf431",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    }
+  ]
+}

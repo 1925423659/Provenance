@@ -1,0 +1,10 @@
+{
+  "commitish" : "v4.3.1",
+  "tvOS" : [
+    {
+      "name" : "Reachability",
+      "hash" : "dcca95ecb7fc336040815da0520428c167f55208acabbc2244cb4fa210c66b63",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    }
+  ]
+}
